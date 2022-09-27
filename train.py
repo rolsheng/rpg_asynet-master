@@ -9,7 +9,7 @@ from training.trainer import DenseVGGModel
 from training.trainer import SparseObjectDetModel
 from training.trainer import DenseObjectDetModel
 
-
+#我自己添加一套注释
 def main():
     parser = argparse.ArgumentParser(description='Train network.')
     parser.add_argument('--settings_file', help='Path to settings yaml', required=True)
