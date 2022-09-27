@@ -1,5 +1,5 @@
 dataset:
-  # 'NCaltech101' or 'NCaltech101_ObjectDetection', 'Prophesee', 'NCars'
+  # 'NCaltech101' or 'NCaltech101_ObjectDetection', 'Prophesee', 'NCars','Yuegangao_dataset'
   name: 'NCaltech101_ObjectDetection'
   event_representation: 'histogram'  # ['histogram', 'event_queue']
   ncaltech101:
